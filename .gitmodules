@@ -1,0 +1,6 @@
+[submodule "client_side"]
+	path = client_side
+	url = git@github.com:Stvchm9703/IDCT-Proj-Unity.git
+[submodule "server_side"]
+	path = server_side
+	url = git@github.com:Stvchm9703/IDCT-Proj-Svr.git
