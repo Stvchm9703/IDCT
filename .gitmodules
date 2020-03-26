@@ -4,3 +4,4 @@
 [submodule "server_side"]
 	path = server_side
 	url = git@github.com:Stvchm9703/IDCT-Proj-Svr.git
+	branch = v2
