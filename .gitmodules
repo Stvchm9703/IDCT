@@ -5,3 +5,6 @@
 	path = server_side
 	url = git@github.com:Stvchm9703/IDCT-Proj-Svr.git
 	branch = v2
+[submodule "client_build"]
+	path = client_build
+	url = https://github.com/Stvchm9703/IDCT-Unity-Android
